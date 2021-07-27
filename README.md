@@ -1,9 +1,8 @@
 ### Hi there, I'm Bearjin! 🙋‍♂
-
-#### Introduce 
 - Hello! I'm Woongjin Kim, a web developer with 4 years of experience.
 - I'm currently learning React.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bearjin&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
@@ -11,13 +10,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwj5030@gmail.com)](mailto:kwj5030@gmail.com)
 
 </div>
-
-
-
-![Bearjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearjin&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bearjin&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <div align=center>
 
